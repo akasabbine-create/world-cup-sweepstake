@@ -12,7 +12,7 @@ API_HOST = "api-football-v1.p.rapidapi.com"
 
 # API-Football uses league=1 for the World Cup in many examples, but confirm the 2026
 # league/season mapping in your API dashboard before the tournament starts.
-URL = "https://api-football-v1.p.rapidapi.com/v3/fixtures?league=1&season=2026"
+URL = "https://api-football-v1.p.rapidapi.com/v3/fixtures?date=2026-06-13"
 FINISHED = {"FT", "AET", "PEN"}
 
 
