@@ -1,0 +1,20 @@
+[
+  {
+    "rank": 1,
+    "name": "Rob",
+    "teams": [
+      "England",
+      "Japan"
+    ],
+    "points": 0
+  },
+  {
+    "rank": 2,
+    "name": "Example Player",
+    "teams": [
+      "France",
+      "USA"
+    ],
+    "points": 0
+  }
+]
